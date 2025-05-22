@@ -1,0 +1,45 @@
+# Analyse de cybersécurité avec Wireshark et Tshark
+
+## Langues
+
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![Analyse de cybersécurité avec Wireshark et Tshark](https://cover-creator.labex.io/cybersecurity-analysis-with-wireshark-and-tshark.png?lang=fr)](https://labex.io/fr/courses/cybersecurity-analysis-with-wireshark-and-tshark)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/fr/courses/cybersecurity-analysis-with-wireshark-and-tshark)
+
+Dans ce cours, apprenez l'analyse de cybersécurité en utilisant Wireshark et Tshark. Maîtrisez la capture de paquets, le filtrage, l'analyse de protocoles et l'automatisation pour une surveillance efficace de la sécurité du réseau.
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-whitesmoke?style=for-the-badge&logo=cybersecurity)
+![Wireshark](https://img.shields.io/badge/Wireshark-whitesmoke?style=for-the-badge&logo=wireshark)
+![Tshark](https://img.shields.io/badge/Tshark-whitesmoke?style=for-the-badge&logo=tshark)
+
+
+## Environnement
+
+LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
+
+![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
+
+- Une approche stricte "Apprendre en Faisant" avec des laboratoires pratiques exclusifs et sans vidéos.
+- Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
+- Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
+- Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
+- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+
+En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+
+## Exercices
+
+|   Index | Nom                                             | Difficulté   | Pratique                                                                                                                      |
+|---------|-------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Capturer le trafic en direct avec Tshark     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>Commencer le Lab</a>  |
+|      02 | 📖 Lire les données de paquets dans Tshark      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/wireshark-read-packet-data-in-tshark-548937'>Commencer le Lab</a>      |
+|      03 | 📖 Appliquer des filtres de capture dans Tshark | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>Commencer le Lab</a> |
+
+## Plus
+
+- 🔗 [Wireshark Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Wireshark Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Wireshark Free Tutorials](https://github.com/labex-labs/wireshark-free-tutorials)
+
