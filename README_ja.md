@@ -33,13 +33,13 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                           | 難易度   | 練習                                                                                                                    |
 |----------------|------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Tshark でライブトラフィックをキャプチャする | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>ラボを開始</a>  |
-|             02 | 📖 Tshark でパケットデータを読み取る           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-read-packet-data-in-tshark-548937'>ラボを開始</a>      |
-|             03 | 📖 Tshark でキャプチャフィルタを適用する       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>ラボを開始</a> |
+|             01 | 📖 Tshark でライブトラフィックをキャプチャする | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>ラボを開始</a>  |
+|             02 | 📖 Tshark でパケットデータを読み取る           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-read-packet-data-in-tshark-548937'>ラボを開始</a>      |
+|             03 | 📖 Tshark でキャプチャフィルタを適用する       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>ラボを開始</a> |
 
 ## その他
 
-- 🔗 [Wireshark Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Wireshark Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Wireshark Free Tutorials](https://github.com/labex-labs/wireshark-free-tutorials)
+- 🔗 [Wireshark プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Wireshark プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Wireshark 無料チュートリアル](https://github.com/labex-labs/wireshark-free-tutorials)
 
