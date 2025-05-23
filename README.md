@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Cybersecurity Analysis with Wireshark and Tshark](https://cover-creator.labex.io/cybersecurity-analysis-with-wireshark-and-tshark.png)](https://labex.io/en/courses/cybersecurity-analysis-with-wireshark-and-tshark)
+[![Cybersecurity Analysis with Wireshark and Tshark](https://cover-creator.labex.io/cybersecurity-analysis-with-wireshark-and-tshark.png)](https://labex.io/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/cybersecurity-analysis-with-wireshark-and-tshark)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/cybersecurity-analysis-with-wireshark-and-tshark)
 
 In this course, learn cybersecurity analysis using Wireshark and Tshark. Master packet capture, filtering, protocol analysis, and automation for effective network security monitoring.
 
@@ -31,11 +31,11 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                               | Difficulty   | Practice                                                                                                               |
-|---------|------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Capture Live Traffic in Tshark  | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>Start Lab</a>  |
-|      02 | 📖 Read Packet Data in Tshark      | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/wireshark-read-packet-data-in-tshark-548937'>Start Lab</a>      |
-|      03 | 📖 Apply Capture Filters in Tshark | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>Start Lab</a> |
+|   Index | Name                               | Difficulty   | Practice                                                                                                            |
+|---------|------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Capture Live Traffic in Tshark  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>Start Lab</a>  |
+|      02 | 📖 Read Packet Data in Tshark      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/wireshark-read-packet-data-in-tshark-548937'>Start Lab</a>      |
+|      03 | 📖 Apply Capture Filters in Tshark | Beginner     | <a target='_blank' href='https://labex.io/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>Start Lab</a> |
 
 ## More
 
