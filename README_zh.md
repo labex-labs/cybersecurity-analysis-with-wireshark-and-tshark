@@ -31,11 +31,38 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 
 ## 练习
 
-|   序号 | 名称                          | 难度   | 练习                                                                                                                  |
-|--------|-------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 使用 Tshark 捕获实时流量   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>开始实验</a>  |
-|     02 | 📖 在 Tshark 中读取数据包数据 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-read-packet-data-in-tshark-548937'>开始实验</a>      |
-|     03 | 📖 在 Tshark 中应用捕获过滤器 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>开始实验</a> |
+|   序号 | 名称                              | 难度   | 练习                                                                                                                  |
+|--------|-----------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 使用 Tshark 捕获实时流量       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>开始实验</a>  |
+|     02 | 📖 在 Tshark 中读取数据包数据     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-read-packet-data-in-tshark-548937'>开始实验</a>      |
+|     03 | 📖 在 Tshark 中应用捕获过滤器     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>开始实验</a> |
+|     04 | 📖 在 Tshark 中使用显示过滤器     | 初级   | 即将推出                                                                                                              |
+|     05 | 📖 在 Tshark 中限制捕获大小       | 初级   | 即将推出                                                                                                              |
+|     06 | 📖 在 Tshark 中分析 TCP 会话      | 初级   | 即将推出                                                                                                              |
+|     07 | 📖 在 Tshark 中追踪 TCP 流        | 初级   | 即将推出                                                                                                              |
+|     08 | 📖 在 Tshark 中提取数据包字段     | 初级   | 即将推出                                                                                                              |
+|     09 | 📖 在 Tshark 中生成协议统计信息   | 初级   | 即将推出                                                                                                              |
+|     10 | 📖 在 Tshark 中过滤 HTTP 流量     | 初级   | 即将推出                                                                                                              |
+|     11 | 📖 在 Tshark 中导出过滤后的数据包 | 初级   | 即将推出                                                                                                              |
+|     12 | 📖 在 Tshark 中自定义时间戳显示   | 初级   | 即将推出                                                                                                              |
+|     13 | 📖 使用 Tshark 实时监控流量       | 初级   | 即将推出                                                                                                              |
+|     14 | 📖 在 Tshark 中分析丢包           | 初级   | 即将推出                                                                                                              |
+|     15 | 📖 在 Tshark 中处理大型文件       | 初级   | 即将推出                                                                                                              |
+|     16 | 📖 在 Tshark 中自动化文件轮转     | 初级   | 即将推出                                                                                                              |
+|     17 | 📖 在 Tshark 中解码自定义协议     | 初级   | 即将推出                                                                                                              |
+|     18 | 📖 使用 Tshark 分析 IPv6 流量     | 初级   | 即将推出                                                                                                              |
+|     19 | 📖 使用 Tshark 排除 DNS 查询故障  | 初级   | 即将推出                                                                                                              |
+|     20 | 📖 在 Tshark 中转储十六进制数据   | 初级   | 即将推出                                                                                                              |
+|     21 | 📖 在 Tshark 中测量服务响应时间   | 初级   | 即将推出                                                                                                              |
+|     22 | 📖 将 Tshark 输出管道传递给工具   | 初级   | 即将推出                                                                                                              |
+|     23 | 📖 在 Tshark 中捕获无线帧         | 初级   | 即将推出                                                                                                              |
+|     24 | 📖 在 Tshark 中导出 HTTP 对象     | 初级   | 即将推出                                                                                                              |
+|     25 | 📖 在 Tshark 中压缩捕获文件       | 初级   | 即将推出                                                                                                              |
+|     26 | 📖 分析 Tshark 性能               | 初级   | 即将推出                                                                                                              |
+|     27 | 📖 在 Tshark 中禁用协议           | 初级   | 即将推出                                                                                                              |
+|     28 | 📖 在 Tshark 中使用两遍分析       | 初级   | 即将推出                                                                                                              |
+|     29 | 📖 使用 Tshark 通过日志进行调试   | 初级   | 即将推出                                                                                                              |
+|     30 | 📖 使用 Lua 脚本扩展 Tshark       | 初级   | 即将推出                                                                                                              |
 
 ## 更多
 
