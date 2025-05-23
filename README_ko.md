@@ -31,11 +31,38 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 연습
 
-|   인덱스 | 이름                              | 난이도   | 연습                                                                                                                   |
-|----------|-----------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Tshark 로 실시간 트래픽 캡처   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>실습 시작</a>  |
-|       02 | 📖 Tshark 에서 패킷 데이터 읽기   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-read-packet-data-in-tshark-548937'>실습 시작</a>      |
-|       03 | 📖 Tshark 에서 캡처 필터 적용하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>실습 시작</a> |
+|   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                   |
+|----------|---------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Tshark 로 실시간 트래픽 캡처             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>실습 시작</a>  |
+|       02 | 📖 Tshark 에서 패킷 데이터 읽기             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-read-packet-data-in-tshark-548937'>실습 시작</a>      |
+|       03 | 📖 Tshark 에서 캡처 필터 적용하기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>실습 시작</a> |
+|       04 | 📖 Use Display Filters in Tshark            | 초급     | 곧 출시                                                                                                                |
+|       05 | 📖 Limit Capture Size in Tshark             | 초급     | 곧 출시                                                                                                                |
+|       06 | 📖 Analyze TCP Conversations in Tshark      | 초급     | 곧 출시                                                                                                                |
+|       07 | 📖 Follow TCP Streams in Tshark             | 초급     | 곧 출시                                                                                                                |
+|       08 | 📖 Extract Packet Fields in Tshark          | 초급     | 곧 출시                                                                                                                |
+|       09 | 📖 Generate Protocol Statistics in Tshark   | 초급     | 곧 출시                                                                                                                |
+|       10 | 📖 Filter HTTP Traffic in Tshark            | 초급     | 곧 출시                                                                                                                |
+|       11 | 📖 Export Filtered Packets in Tshark        | 초급     | 곧 출시                                                                                                                |
+|       12 | 📖 Customize Timestamp Display in Tshark    | 초급     | 곧 출시                                                                                                                |
+|       13 | 📖 Monitor Traffic in Real Time in Tshark   | 초급     | 곧 출시                                                                                                                |
+|       14 | 📖 Analyze Packet Loss in Tshark            | 초급     | 곧 출시                                                                                                                |
+|       15 | 📖 Handle Large Files in Tshark             | 초급     | 곧 출시                                                                                                                |
+|       16 | 📖 Automate File Rotation in Tshark         | 초급     | 곧 출시                                                                                                                |
+|       17 | 📖 Decode Custom Protocols in Tshark        | 초급     | 곧 출시                                                                                                                |
+|       18 | 📖 Analyze IPv6 Traffic in Tshark           | 초급     | 곧 출시                                                                                                                |
+|       19 | 📖 Troubleshoot DNS Queries in Tshark       | 초급     | 곧 출시                                                                                                                |
+|       20 | 📖 Dump Hex Data in Tshark                  | 초급     | 곧 출시                                                                                                                |
+|       21 | 📖 Measure Service Response Times in Tshark | 초급     | 곧 출시                                                                                                                |
+|       22 | 📖 Pipe Tshark Output to Tools              | 초급     | 곧 출시                                                                                                                |
+|       23 | 📖 Capture Wireless Frames in Tshark        | 초급     | 곧 출시                                                                                                                |
+|       24 | 📖 Export HTTP Objects in Tshark            | 초급     | 곧 출시                                                                                                                |
+|       25 | 📖 Compress Capture Files in Tshark         | 초급     | 곧 출시                                                                                                                |
+|       26 | 📖 Profile Tshark Performance               | 초급     | 곧 출시                                                                                                                |
+|       27 | 📖 Disable Protocols in Tshark              | 초급     | 곧 출시                                                                                                                |
+|       28 | 📖 Use Two-Pass Analysis in Tshark          | 초급     | 곧 출시                                                                                                                |
+|       29 | 📖 Debug with Logs in Tshark                | 초급     | 곧 출시                                                                                                                |
+|       30 | 📖 Extend Tshark with Lua Scripts           | 초급     | 곧 출시                                                                                                                |
 
 ## 더 보기
 
