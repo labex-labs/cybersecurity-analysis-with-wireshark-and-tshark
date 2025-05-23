@@ -33,13 +33,13 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Índice | Nome                                    | Dificuldade   | Prática                                                                                                                  |
 |----------|-----------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Capturar Tráfego ao Vivo no Tshark   | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>Iniciar Lab</a>  |
-|       02 | 📖 Ler Dados de Pacotes no Tshark       | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-read-packet-data-in-tshark-548937'>Iniciar Lab</a>      |
-|       03 | 📖 Aplicar Filtros de Captura no Tshark | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>Iniciar Lab</a> |
+|       01 | 📖 Capturar Tráfego ao Vivo no Tshark   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>Iniciar Lab</a>  |
+|       02 | 📖 Ler Dados de Pacotes no Tshark       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-read-packet-data-in-tshark-548937'>Iniciar Lab</a>      |
+|       03 | 📖 Aplicar Filtros de Captura no Tshark | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>Iniciar Lab</a> |
 
 ## Mais
 
-- 🔗 [Wireshark Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Wireshark Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Wireshark Free Tutorials](https://github.com/labex-labs/wireshark-free-tutorials)
+- 🔗 [Wireshark Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Wireshark Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Wireshark Tutoriais Gratuitos](https://github.com/labex-labs/wireshark-free-tutorials)
 
