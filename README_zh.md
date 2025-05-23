@@ -27,19 +27,19 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                          | 难度   | 练习                                                                                                                  |
 |--------|-------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 使用 Tshark 捕获实时流量   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>开始实验</a>  |
-|     02 | 📖 在 Tshark 中读取数据包数据 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-read-packet-data-in-tshark-548937'>开始实验</a>      |
-|     03 | 📖 在 Tshark 中应用捕获过滤器 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>开始实验</a> |
+|     01 | 📖 使用 Tshark 捕获实时流量   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>开始实验</a>  |
+|     02 | 📖 在 Tshark 中读取数据包数据 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-read-packet-data-in-tshark-548937'>开始实验</a>      |
+|     03 | 📖 在 Tshark 中应用捕获过滤器 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>开始实验</a> |
 
 ## 更多
 
-- 🔗 [Wireshark Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Wireshark Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Wireshark Free Tutorials](https://github.com/labex-labs/wireshark-free-tutorials)
+- 🔗 [Wireshark 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Wireshark 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Wireshark 免费教程](https://github.com/labex-labs/wireshark-free-tutorials)
 
