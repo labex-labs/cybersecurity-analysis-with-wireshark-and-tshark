@@ -31,11 +31,38 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 ## Übungen
 
-|   Index | Name                                   | Schwierigkeit   | Übung                                                                                                                      |
-|---------|----------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Live-Traffic-Erfassung in Tshark    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>Labor Starten</a>  |
-|      02 | 📖 Paketdaten in Tshark lesen          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-read-packet-data-in-tshark-548937'>Labor Starten</a>      |
-|      03 | 📖 Erfassungsfilter in Tshark anwenden | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>Labor Starten</a> |
+|   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                      |
+|---------|----------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Live-Traffic-Erfassung in Tshark                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>Labor Starten</a>  |
+|      02 | 📖 Paketdaten in Tshark lesen                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-read-packet-data-in-tshark-548937'>Labor Starten</a>      |
+|      03 | 📖 Erfassungsfilter in Tshark anwenden                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>Labor Starten</a> |
+|      04 | 📖 Anzeigenfilter in Tshark verwenden                    | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      05 | 📖 Erfassungsgröße in Tshark begrenzen                   | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      06 | 📖 TCP-Konversationen in Tshark analysieren              | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      07 | 📖 TCP-Streams in Tshark verfolgen                       | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      08 | 📖 Paketfelder in Tshark extrahieren                     | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      09 | 📖 Protokollstatistiken in Tshark generieren             | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      10 | 📖 HTTP-Traffic in Tshark filtern                        | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      11 | 📖 Gefilterte Pakete in Tshark exportieren               | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      12 | 📖 Anpassen der Zeitstempelanzeige in Tshark             | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      13 | 📖 Echtzeit-Traffic-Überwachung in Tshark                | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      14 | 📖 Paketverlust in Tshark analysieren                    | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      15 | 📖 Umgang mit großen Dateien in Tshark                   | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      16 | 📖 Automatisierte Dateirotation in Tshark                | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      17 | 📖 Benutzerdefinierte Protokolle in Tshark dekodieren    | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      18 | 📖 IPv6-Traffic in Tshark analysieren                    | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      19 | 📖 DNS-Abfragen in Tshark analysieren und Fehler behe... | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      20 | 📖 Hex-Daten in Tshark ausgeben                          | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      21 | 📖 Service-Antwortzeiten in Tshark messen                | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      22 | 📖 Tshark-Ausgabe an Tools weiterleiten                  | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      23 | 📖 Drahtlose Frames in Tshark erfassen                   | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      24 | 📖 HTTP-Objekte in Tshark exportieren                    | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      25 | 📖 Capture-Dateien in Tshark komprimieren                | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      26 | 📖 Tshark Performance Profilieren                        | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      27 | 📖 Protokolle in Tshark deaktivieren                     | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      28 | 📖 Zwei-Pass-Analyse in Tshark verwenden                 | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      29 | 📖 Debuggen mit Protokollen in Tshark                    | Anfänger        | Demnächst Verfügbar                                                                                                        |
+|      30 | 📖 Tshark mit Lua-Skripten erweitern                     | Anfänger        | Demnächst Verfügbar                                                                                                        |
 
 ## Mehr
 
