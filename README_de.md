@@ -17,17 +17,17 @@ In diesem Kurs lernen Sie die Cybersicherheitsanalyse mit Wireshark und Tshark. 
 
 ## Übungen
 
-|   Index | Name                                              | Schwierigkeit   | Übung                                                                                                                      |
-|---------|---------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Live-Traffic-Erfassung in Tshark            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>Labor Starten</a>  |
-|       2 | 📖 🆓 Paketdaten in Tshark lesen                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-read-packet-data-in-tshark-548937'>Labor Starten</a>      |
-|       3 | 📖 🆓 Erfassungsfilter in Tshark anwenden         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>Labor Starten</a> |
-|       4 | 📖 🆓 Tshark-Displayfilter verwenden              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-use-display-filters-in-tshark-548939'>Labor Starten</a>   |
-|       5 | 📖 🆓 Einschränkung der Erfassungsgröße in Tshark | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-limit-capture-size-in-tshark-548932'>Labor Starten</a>    |
+|   Index | Name                                              | Schwierigkeit   | Übung                                                                                                                                                                         |
+|---------|---------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Live-Traffic-Erfassung in Tshark            | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/wireshark-capture-live-traffic-in-tshark-548916?course=cybersecurity-analysis-with-wireshark-and-tshark'>Labor Starten</a>  |
+|       2 | 🧩 🆓 Paketdaten in Tshark lesen                  | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/wireshark-read-packet-data-in-tshark-548937?course=cybersecurity-analysis-with-wireshark-and-tshark'>Labor Starten</a>      |
+|       3 | 🧩 🆓 Erfassungsfilter in Tshark anwenden         | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/wireshark-apply-capture-filters-in-tshark-548914?course=cybersecurity-analysis-with-wireshark-and-tshark'>Labor Starten</a> |
+|       4 | 🧩 🆓 Tshark-Displayfilter verwenden              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/wireshark-use-display-filters-in-tshark-548939?course=cybersecurity-analysis-with-wireshark-and-tshark'>Labor Starten</a>   |
+|       5 | 🧩 🆓 Einschränkung der Erfassungsgröße in Tshark | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/wireshark-limit-capture-size-in-tshark-548932?course=cybersecurity-analysis-with-wireshark-and-tshark'>Labor Starten</a>    |
 
 ## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
+[LabEx](https://labex.io) ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, [LabEx](https://labex.io) bietet umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
