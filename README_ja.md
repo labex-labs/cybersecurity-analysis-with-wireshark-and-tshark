@@ -17,17 +17,17 @@
 
 ## 演習
 
-|   インデックス | 名前                                              | 難易度   | 練習                                                                                                                    |
-|----------------|---------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 Tshark でライブトラフィックをキャプチャする | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-capture-live-traffic-in-tshark-548916'>ラボを開始</a>  |
-|              2 | 📖 🆓 Tshark でパケットデータを読み取る           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-read-packet-data-in-tshark-548937'>ラボを開始</a>      |
-|              3 | 📖 🆓 Tshark でキャプチャフィルタを適用する       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-apply-capture-filters-in-tshark-548914'>ラボを開始</a> |
-|              4 | 📖 🆓 Tshark で表示フィルタを使用する             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-use-display-filters-in-tshark-548939'>ラボを開始</a>   |
-|              5 | 📖 🆓 Tshark でキャプチャサイズを制限する方法     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-limit-capture-size-in-tshark-548932'>ラボを開始</a>    |
+|   インデックス | 名前                                              | 難易度   | 練習                                                                                                                                                                       |
+|----------------|---------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 Tshark でライブトラフィックをキャプチャする | 初級     | <a target='_blank' href='https://labex.io/ja/labs/wireshark-capture-live-traffic-in-tshark-548916?course=cybersecurity-analysis-with-wireshark-and-tshark'>ラボを開始</a>  |
+|              2 | 🧩 🆓 Tshark でパケットデータを読み取る           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/wireshark-read-packet-data-in-tshark-548937?course=cybersecurity-analysis-with-wireshark-and-tshark'>ラボを開始</a>      |
+|              3 | 🧩 🆓 Tshark でキャプチャフィルタを適用する       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/wireshark-apply-capture-filters-in-tshark-548914?course=cybersecurity-analysis-with-wireshark-and-tshark'>ラボを開始</a> |
+|              4 | 🧩 🆓 Tshark で表示フィルタを使用する             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/wireshark-use-display-filters-in-tshark-548939?course=cybersecurity-analysis-with-wireshark-and-tshark'>ラボを開始</a>   |
+|              5 | 🧩 🆓 Tshark でキャプチャサイズを制限する方法     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/wireshark-limit-capture-size-in-tshark-548932?course=cybersecurity-analysis-with-wireshark-and-tshark'>ラボを開始</a>    |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
